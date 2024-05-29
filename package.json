@@ -1,0 +1,23 @@
+{
+  "name": "p5ts-template",
+  "version": "1.0.0",
+  "description": "A minimal template for creating one off p5.js sketches that employ TypeScript.",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack serve --open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/p5": "^1.7.6",
+    "ts-loader": "^9.5.1",
+    "typescript": "^5.4.5",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^5.0.4"
+  },
+  "dependencies": {
+    "p5": "^1.9.4"
+  }
+}
