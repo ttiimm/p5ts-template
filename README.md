@@ -13,3 +13,7 @@ The project structure is based off of the one described in this blog post: [How 
 3. Install dependencies `$ npm install`.
 3. Run `$ npm run start`. The default browser should open with the sketch.
 5. Modify `src/index.ts` and webpack will keep the sketch updated.
+
+## Examples
+
+Look at the branches of the repository for examples that have been converted from [the p5.js website](https://p5js.org/examples/).
